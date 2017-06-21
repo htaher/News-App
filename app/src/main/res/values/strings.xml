@@ -1,0 +1,10 @@
+<resources>
+    <!-- Text pf the app name -->
+    <string name="app_name">My UK News</string>
+
+    <!-- Text to display in the list when there are no news -->
+    <string name="no_news">No news found.</string>
+
+    <!-- Error message when there is no internet connectivity -->
+    <string name="no_internet_connection">No internet connection.</string>
+</resources>
